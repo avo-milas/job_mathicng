@@ -16,6 +16,8 @@
   </ol>
 </details>
 
+Презентация: https://docs.google.com/document/d/1zEOFtDFgbgD082jaXbpp3dnLCp4L87Pc7qr4Tev6A3A/edit?usp=sharing
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
