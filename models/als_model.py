@@ -2,7 +2,7 @@ import importlib
 import json
 import pandas as pd
 import numpy as np
-from base_model import BaseSelector
+from models.base_model import BaseSelector
 from implicit.als import AlternatingLeastSquares
 from scipy.sparse import csr_matrix
 from sklearn.preprocessing import StandardScaler
@@ -96,7 +96,7 @@ class ALSModel(BaseSelector):
 
         sparse_data = csr_matrix((values, (rows, cols)))
 
-        model = AlternatingLeastSquares(factors=70, regularization=1.5, iterations=100)
+        model = AlternatingLeastSquares(factors=70, regularization=1.5, iterations=100).to_cpu()
         model.fit(sparse_data)
 
         # self.user_vectors = model.user_factors
