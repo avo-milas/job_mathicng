@@ -1,0 +1,263 @@
+[
+  {
+    "hard_skills": "Java, Spring Boot, Quarkus, Micronaut, Vert.x, Kubernetes, Docker, Kafka, Postgress, MySQL, Oracle",
+    "soft_skills": null,
+    "benefits": "страхование, известный работодатель, обучение, ДМС, фитнес-зал, дополнительные дни отпуска, well-being-программа",
+    "type": "удаленно, в офисе",
+    "experience": "3",
+    "monthly_wage": "450000",
+    "level": "middle, senior"
+  },
+  {
+    "hard_skills": "REST, gRPC, Kafka, RabbitMQ, SQL, UML, BPMN",
+    "soft_skills": null,
+    "benefits": null,
+    "type": null,
+    "experience": "3",
+    "monthly_wage": "350000",
+    "level": "middle, senior"
+  },
+  {
+    "hard_skills": "Oracle, SQL, PL/SQL, MS SQL Reporting Services, Tableau, QlikView, ETL, Informatica PowerCenter, Vertica",
+    "soft_skills": null,
+    "benefits": "удаленно, офис, корпоративная электронная библиотека, страхование при выезде за рубеж, корпоративная социальная и материальная поддержка, 10 рабочих дней оплачиваемого листа нетрудоспособности в год, корпоративные скидки, льготные условия на продукты Банка, корпоративные мероприятия",
+    "type": "удаленно, офис",
+    "experience": "3",
+    "monthly_wage": "300000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "MQ-очереди, Kafka, SQL, Jira, Confluence, XML, JSON, Kubernetes, OpenShift, PostgreSQL, Java",
+    "soft_skills": "умение управлять ожиданиями заказчика, коммуникабельность, ответственность в принятии решений",
+    "benefits": "возможность участвовать в крупных проектах, конкурентную и полностью официальную заработную плату, комфортный и современный офис, пакет льгот для сотрудников, необходимое оборудование",
+    "type": "офисе, гибрид",
+    "experience": "2",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": null,
+    "soft_skills": "гибкость, обучаемость, структурность, проактивность, готовность драйвить, 'горящие глаза'",
+    "benefits": "бонусы, возможность роста з/п, перформанс ревью, полугодовые отзывы, менторство",
+    "type": "гибрид/полную удаленку",
+    "experience": "3",
+    "monthly_wage": "630000",
+    "level": "lead"
+  },
+  {
+    "hard_skills": "Java 8, SQL, IntelliJ IDEA, JSON, Maven, Gradle, Git",
+    "soft_skills": null,
+    "benefits": "льготная ипотека, отсрочка от призыва на военную службу, медицинская помощь (ДМС, доплата по больничному листу), материальная помощь за рождение ребенка, корпоративная мобильная связь",
+    "type": null,
+    "experience": "1",
+    "monthly_wage": "150000",
+    "level": "junior"
+  },
+  {
+    "hard_skills": "Java Spring boot, PostgreSQL, React JS, SQL, API, микросервисы, методологии и принципы разработки ПО, межсистемные взаимодействия, моделирование предметных областей, UseCase-диаграммы, sequence-диаграммы, технические спецификации",
+    "soft_skills": "гибкость, обучаемость, коммуникабельность",
+    "benefits": "ДМС, психологическая поддержка, корпоративный кафетерий, льготы, насыщенная инножизнь, скидки и купоны от партнеров, эксклюзивный зарплатный проект для сотрудников в банке ВТБ",
+    "type": "удаленно, офис, гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": null
+  },
+  {
+    "hard_skills": "Java, Spring, Redis, Kafka, Spark Streaming, Apache Flink, OpenShift, Kubernetes",
+    "soft_skills": "лидерские качества, способность обучаться и обучать других, гибкость",
+    "benefits": "ДМС, buddy программа наставничества, сервис психологической поддержки, корпоративный кафетерий, льготы",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "senior"
+  },
+  {
+    "hard_skills": "TeamCity, Jenkins, Helm, Ansible, Kubernetes, OpenShift, ServiceMesh, Istio, Docker, Docker Compose, Dockerfile, Nexus, Maven, BitBucket, Jira, Bash, Python, Kotlin, Groovy, Git, Terraform, Wildfly, Tomcat, PostgreSQL, S3, Prometheus, Grafana, ELK, REST API, OSI",
+    "soft_skills": "коммуникативные навыки, внимательность к деталям, аккуратность, работа на результат",
+    "benefits": null,
+    "type": "полная занятость, полный день",
+    "experience": "2-4",
+    "monthly_wage": "null",
+    "level": null
+  },
+  {
+    "hard_skills": "UML, REST, брокеры сообщений, MQ, SQL, XML, JSON",
+    "soft_skills": "коммуникативные навыки, аналитическое мышление, умение работать по нечётким требованиям, принятие решений, ответственность",
+    "benefits": "гибкий график работы, программа наставничества, ДМС, сервис психологической поддержки, корпоративный кафетерий, льготы, обучение, конкурентная зарплата",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle, senior"
+  },
+  {
+    "hard_skills": "Hadoop, SQL, Apache AirFlow, SAS DI, Informatica PC, ODI",
+    "soft_skills": "гибкость, обучаемость, коммуникабельность, целеустремленность",
+    "benefits": "страхование, премиальная составляющая в зарплате, корпоративный кафетерий, ДМС, программы поддержки",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "null",
+    "level": "senior"
+  },
+  {
+    "hard_skills": "SQL, теория тестирования, интеграционное тестирование",
+    "soft_skills": "коммуникабельность, обучаемость",
+    "benefits": "премия 12%, поддержка 3-й линии",
+    "type": null,
+    "experience": "3",
+    "monthly_wage": "283000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "гибкие методологии разработки (scrum, kanban)",
+    "soft_skills": "коммуникативные навыки, управление ожиданиями заказчика, проактивность",
+    "benefits": null,
+    "type": null,
+    "experience": "2",
+    "monthly_wage": null,
+    "level": "lead"
+  },
+  {
+    "hard_skills": "Hadoop, Big Data, Data WareHouse, Hive, HDFS, Spark, ETL, SQL",
+    "soft_skills": "коммуникативные навыки, умение находить общий язык, понимание жизненного цикла ИТ-решений",
+    "benefits": "гибкий график работы, ДМС, сервис психологической поддержки, корпоративный кафетерий, льготы и компенсации, обучение, конкурентная зарплата, премии",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "docker, kafka, Linux, Ansible, Terraform, Packer, bash/sh, Kubernetes, HAProxy, NGinx, Gitlab, TeamCity, helm",
+    "soft_skills": null,
+    "benefits": "ДМС со стоматологией и госпитализацией, корпоративные скидки, бесплатное обучение в IT-академии, рабочие дни 100% оплачиваемого больничного, доступ к электронной библиотеке, льготные условия на продукты банка, корпоративные мероприятия, участие в спортивных соревнованиях, участие в благотворительных и социально значимых активностях",
+    "type": "гибрид, удаленно",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "SQL, DWH, Data Vault",
+    "soft_skills": "аналитические навыки, коммуникация",
+    "benefits": "бонусы, ДМС, обучение,  дополнительный оплачиваемый отпуск",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "Python, ETL, REST API, SOAP, SQL, Hadoop, Spark, git, UNIX",
+    "soft_skills": null,
+    "benefits": "гибкий график работы, ДМС, сервис психологической поддержки, корпоративный кафетерий, льготы, программы наставничества Buddy, лекции и мастер-классы, скидки от партнёров, мерч с корпоративной валютой, дополнительные выходные, дополнительный отпуск, обучение, конкурентная зарплата, премии, эксклюзивный зарплатный проект в банке",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": null
+  },
+  {
+    "hard_skills": null,
+    "soft_skills": "гибкость, амбициозность, аналитическое мышление",
+    "benefits": "страхование",
+    "type": null,
+    "experience": "5",
+    "monthly_wage": "500000",
+    "level": "senior"
+  },
+  {
+    "hard_skills": "Java, Kotlin, RxJava",
+    "soft_skills": null,
+    "benefits": "премии до 2-х окладов, страхование",
+    "type": "удаленно, в офисе",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "mid, senior"
+  },
+  {
+    "hard_skills": "SQL, Hadoop, BI, Spark, Kafka, Python",
+    "soft_skills": "гибкость, коммуникабельность, аналитический склад ума",
+    "benefits": "гибкий график, ДМС, психологическая поддержка, корпоративные льготы",
+    "type": "гибрид",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "Java, Spring, Kubernetes, OpenShift, Kafka, RabbitMQ",
+    "soft_skills": "гибкость, обучаемость, ответственность",
+    "benefits": "ДМС, психологическая поддержка, корпоративный кафетерий, льготы, инновационная жизнь, обучение, конкурентная зарплата, премии",
+    "type": "гибрид",
+    "experience": "4",
+    "monthly_wage": "150000",
+    "level": "senior"
+  },
+  {
+    "hard_skills": "React, JS, Java, Microservices, PostgreSQL",
+    "soft_skills": "гибкость, коммуникативность",
+    "benefits": "страхование, обучение, карьерный рост",
+    "type": null,
+    "experience": "2",
+    "monthly_wage": "150000",
+    "level": "lead"
+  },
+  {
+    "hard_skills": "Java, Spring Framework, Hibernate, Stream, Optional, Collections, Java 8-11, Junit, TestNG, Mockito, Git, Maven",
+    "soft_skills": null,
+    "benefits": null,
+    "type": null,
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "Java 11, PostgresSQL, Tarantool, Kafka, ArtemisMQ, K8s/OpenShift, Openstack, Nutanix",
+    "soft_skills": "организация работы команды, управление командой, понимание брокерского бизнеса, работа по методологии scrum, Agile-практики, работа с backlog, приоритизация задач",
+    "benefits": "null",
+    "type": "null",
+    "experience": "5",
+    "monthly_wage": "500000",
+    "level": "lead"
+  },
+  {
+    "hard_skills": "Java, Spring, Git, Gradle/Maven, Kafka, RabbitMQ, ArtemisMQ, Docker, Kubernetes/OpenShift, PostgreSQL, Oracle, unit testing, Reactive Spring (Spring WebFlux, R2DBC, Reactive Spring Data)",
+    "soft_skills": null,
+    "benefits": "null",
+    "type": null,
+    "experience": "5",
+    "monthly_wage": "300000",
+    "level": "senior"
+  },
+  {
+    "hard_skills": "python3, asyncio, pytest, asyncio http frameworks, postgresql, SQL, Docker, rabbitmq, kafka, Nats Messaging, redis, gitlab-ci, ELK, grafana, microservices design, API, k8s",
+    "soft_skills": null,
+    "benefits": null,
+    "type": null,
+    "experience": "2",
+    "monthly_wage": "null",
+    "level": null
+  },
+  {
+    "hard_skills": "Java, Spring Framework, Hibernate, Git, Maven, Junit, TestNG",
+    "soft_skills": null,
+    "benefits": null,
+    "type": null,
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  },
+  {
+    "hard_skills": "Java, Spring, Kubernetes, OpenShift, Kafka, RabbitMQ",
+    "soft_skills": "готовность принимать решения, ответственность",
+    "benefits": "гибкий график, наставничество, ДМС, психологическая поддержка, корпоративный кафетерий, льготы, мастер-классы, скидки, дополнительные выходные, дополнительный отпуск, обучение, конкурентная зарплата, премии, зарплатный проект",
+    "type": "удаленно, в офисе, гибрид",
+    "experience": "4",
+    "monthly_wage": "null",
+    "level": "Senior"
+  },
+  {
+    "hard_skills": "Vue.js, Nuxt.js, Vuex/Pinia, HTML5, CSS, SCSS/Less, JavaScript, TypeScript, webpack, vite, REST API, Postman, Swagger, Git, GitLab CI, Docker, Docker Compose",
+    "soft_skills": "коммуникация, кроссфункциональное взаимодействие, ответственность, работа в команде, способность к обучению и развитию, адаптивность, настойчивость, упорство",
+    "benefits": "развитие под чутким руководством, передача опыта, обучение, возможность карьерного роста, оформление согласно ТК РФ, график работы: дистанционный 5/2 (9-18/10-19), дмс со стоматологией, корпоративный английский, корпоративное обучение, скидки на продукцию бренда, дружный коллектив, открытая корпоративная культура",
+    "type": "удаленно",
+    "experience": "3",
+    "monthly_wage": "150000",
+    "level": "middle"
+  }
+]

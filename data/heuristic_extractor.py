@@ -10,7 +10,7 @@ from nltk.corpus import stopwords
 from pymystem3 import Mystem
 from string import punctuation
 
-class DumbParser:
+class HeuristicExtractor:
 
     #Preprocess function
     def preprocess_text(self, text):
@@ -143,7 +143,7 @@ class DumbParser:
 
         # preprocessing skills
 
-        hh_vacancies = pd.read_csv('./vacancies.csv') #hh ru dataset
+        hh_vacancies = pd.read_csv('./data/heuristic/hh_vacancies.csv') #hh ru dataset
         skills = []
 
         for index, i in hh_vacancies.iterrows():
@@ -156,8 +156,6 @@ class DumbParser:
         self.key_skills = self.get_key_skills(self.sentences, hh_ru_skills)
 
     def form_dataset(self):
-        print(len(self.is_junior))
-        print(len(self.work_type))
         return pd.DataFrame({
             'uuid': self.uuid,
             'is_junior': self.is_junior.values(),
