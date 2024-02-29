@@ -17,13 +17,18 @@ class LlmExtractor:
         
         return text
     
-    def get_llm_extracted_data(self, vacancies):
-        
-        llm = open('./data/llm_vacancies.json')
-        llm_vacancies = json.load(llm)
-    
-        for i in range(len(vacancies)):
-            llm_vacancies[i]['uuid'] = vacancies[i]['vacancy']['uuid']
+    def get_llm_extracted_data(self, vacancies, test):
+
+        llm_vacancies = []
+
+        if test:
+            llm = open('./data/vacancies_uuid_test.json')
+            llm_vacancies = json.load(llm)
+        else:
+            llm = open('./data/llm_vacancies.json')
+            llm_vacancies = json.load(llm)
+            for i in range(len(vacancies)):
+                llm_vacancies[i]['uuid'] = vacancies[i]['vacancy']['uuid']
 
         return llm_vacancies
     
@@ -56,9 +61,9 @@ class LlmExtractor:
         
         return is_junior, is_middle, is_senior, is_teamlead
 
-    def __init__(self, vacancies):
+    def __init__(self, vacancies, test=False):
 
-        llm_data = self.get_llm_extracted_data(vacancies)
+        llm_data = self.get_llm_extracted_data(vacancies, test)
 
         self.mystem = Mystem() 
         self.russian_stopwords = stopwords.words("russian")

@@ -105,7 +105,9 @@ class ResumeExtractor:
         self.vacancy_uuid = []
 
         for vacancy_index in range(len(vacancies)):
-            for confirmation_type in ['confirmed_resumes', 'failed_resumes']:
+            for confirmation_type in ['confirmed_resumes', 'failed_resumes', 'resumes']:
+                if confirmation_type not in vacancies[vacancy_index]:
+                    continue
                 for resume in vacancies[vacancy_index][confirmation_type]:
                     positions, key_skills, extra_skills, working_months, age, is_junior, is_middle, is_senior, is_teamlead = self.get_working_years_extra_skills_positions(resume)
 
