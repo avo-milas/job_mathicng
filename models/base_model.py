@@ -5,20 +5,21 @@ class BaseSelector:
     Base model class
     Defines selector model interface
     '''
-    def __init__(self):
+    def __init__(self, **kwargs):
         '''
         Initialize model making it ready to fit
         '''
         return NotImplementedError
 
-    def fit(data: pd.DataFrame):
+    def fit(data):
         '''
         fit model with data
         Arguments:
            data -- dataframe with vacancies which using to fit the model
         '''
         return NotImplementedError
-    def predict(vacancy: pd.DataFrame, k: int):
+        
+    def predict(k: int, **kwargs):
         '''
         Gets vacancy and gives top-k sorted candidates list
         Arguments:
