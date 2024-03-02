@@ -1,44 +1,12 @@
 <a id="readme-top"></a>
   <h1 align="center">job_mathicng</h1>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-Презентация: https://docs.google.com/document/d/1zEOFtDFgbgD082jaXbpp3dnLCp4L87Pc7qr4Tev6A3A/edit?usp=sharing
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
 Алгоритм для сопоставления резюме и вакансии, разработанный в рамках ML TalentMatch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- CONTACT -->
 ## Contact
